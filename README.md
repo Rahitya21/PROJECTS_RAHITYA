@@ -72,3 +72,6 @@ Policy Support for Mental Health: Encourage policies for mandatory mental health
 Cross-Country Collaborations: Facilitate international collaborations to share successful prevention methods, enabling high-risk countries to learn from those with decreasing suicide trends.
 
 Research and Monitoring: Invest in research for high-risk areas and vulnerable demographics (e.g., Boomers and Silent Generation) to refine targeted interventions and monitor their impact.
+
+# Picture of the Dashboard
+![Screenshot 2024-10-27 204327](https://github.com/user-attachments/assets/c40b0946-4f17-46ec-b47a-5d44c0f4d44b)
