@@ -1,10 +1,10 @@
 # Exploring Socioeconomic and Demographic Patterns in Suicide Rates (1985-2016)
 
 # Project Overview: Global Suicide Analysis
-This project aims to provide insights into the various factors influencing global suicide patterns between 1985 and 2016. By examining these trends across demographics such as age, gender, and economic status, this study enables public health officials and non-governmental organizations with data-driven insights to better customize assistance programs and adjust existing goals. Visualizations and summaries in Power BI provide an accessible approach to understanding patterns and contributing factors in suicide rates, enabling stakeholders to apply these findings to targeted public health initiatives.
+This project aims to provide insights into the various factors influencing global suicide patterns between 1985 and 2016. By examining these trends across demographics such as age, gender, and economic status, this study enables public health officials and non-governmental organizations with data-driven insights to customize assistance programs better and adjust existing goals. Visualizations and summaries in Power BI provide an accessible approach to understanding patterns and contributing factors in suicide rates, enabling stakeholders to apply these findings to targeted public health initiatives.
 
 # About Author:
-The current dataset is a combination of multiple dataset from sources like world health organization, Kaggle, World Bank Group, UNDP. The dataset is complied based on time and region to find any patterns associating with suicide rates based on demographics like age, gender..., countries economic situations.
+The current dataset combines multiple datasets from sources like the World Health Organization, Kaggle, World Bank Group, and UNDP. The dataset is compiled based on time and region to find any patterns associated with suicide rates based on demographics like age, gender..., and countries' economic situations.
 
 # Dataset Information:
  The dataset used in this dashboard is available on Kaggle. This dataset includes comprehensive statistics on global suicide rates across various demographics and regions over the period i.e., from 1985 to 2016.
@@ -13,18 +13,18 @@ The current dataset is a combination of multiple dataset from sources like world
 
 Yearly Data: Collection of data from 1985 to 2016
 
-Demographics: The Dataset consists of information of age, gender and generation for the entire volume of data. 
+Demographics: The Dataset consists of information on age, gender, and generation for the entire volume of data. 
 
 Geographical Scope: Data is available across various countries and regions.
 
 # Methodology:
 DATA CLEANING
 
-Data cleaning and transformation was performed in the initaial stage of the project. In that stage data type of variables were verified and corrected to their rightfull type,unnecessary columns like country-year were deleted as the data was already available in seperate columns. Missing values were handled by replacing accordingly and the duplicate data was deleted. Query is used to build a categorical column so that we can categorise income level for easier visualizations.
+Data cleaning and transformation were performed in the initial stage of the project. In that stage, the data type of variables was verified and corrected to their rightful type, unnecessary columns like country-year were deleted as the data was already available in separate columns. Missing values were handled by replacing accordingly and the duplicate data was deleted. The query is used to build a categorical column to categorize income levels for easier visualizations.
 
 VISUALIZATIONS
 
-Initially for setup a line chart showing the trends of suicide in demographics age group and gender. Aditionally a clustered column chart was created to display the top 10 countries that need help the most and there variation in the count of suicides per 100k population in male and female for deeper understanding. And a stacked column chart was created to display which economic level is involed in suicides. Further slicer for variables gender and generation were included to enhance the analysis and insights.
+Initially for setup a line chart showing the trends of suicide in demographics age group and gender. Additionally a clustered column chart was created to display the top 10 countries that need help the most and there variation in the count of suicides per 100k population in male and female for deeper understanding. And a stacked column chart was created to display which economic level is involed in suicides. Further slicer for variables gender and generation were included to enhance the analysis and insights.
 
 # Insights:
 Gender: Suicides per 100k population are comparatively higher in male than in female.
